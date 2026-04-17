@@ -32,40 +32,40 @@ Tenho experiência sólida no desenvolvimento de APIs RESTful com Node.js e Expr
 <p align="center">
 
 <a href="https://pluggixwp.com">
-  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/15f95a0a-9612-46aa-955d-5b7ae5ac462d.png" width="280"/>
+  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/15f95a0a-9612-46aa-955d-5b7ae5ac462d.png" width="33%"/>
 </a>
 <a href="https://asteriaot.com.br/">
-  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/9f836687-de1a-417e-acc5-7cba46fce482.png" width="280"/>
+  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/9f836687-de1a-417e-acc5-7cba46fce482.png" width="33%"/>
 </a>
 <a href="https://wordpress.org/plugins/pluggix-altgen-ai/">
-  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/2d7b6f43-0095-4555-8976-85b933ffabf1.png" width="280"/>
+  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/2d7b6f43-0095-4555-8976-85b933ffabf1.png" width="33%"/>
 </a>
 
 <a href="https://manutencao.seguroportasdeaco.com.br/">
-  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/ca349e3f-f605-425c-9a97-99896e010c05.png" width="280"/>
+  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/ca349e3f-f605-425c-9a97-99896e010c05.png" width="33%"/>
 </a>
 <a href="https://www.faunofilmes.com.br/">
-  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/c5892fb8-396a-4c6a-9bc6-681b18070578.png" width="280"/>
+  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/c5892fb8-396a-4c6a-9bc6-681b18070578.png" width="33%"/>
 </a>
 <a href="https://host.cupcode.com.br/">
-  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/ac494569-7467-4b49-a5b6-f8f603e26c22.png" width="280"/>
+  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/ac494569-7467-4b49-a5b6-f8f603e26c22.png" width="33%"/>
 </a>
 
 <a href="https://modukot.com">
-  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/24b0aadb-9605-4b7b-b737-eb416e97a115.png" width="280"/>
+  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/24b0aadb-9605-4b7b-b737-eb416e97a115.png" width="33%"/>
 </a>
 <a href="https://www.seguroportasdeaco.com.br/">
-  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/5c7bf0d2-57a3-42f0-a29d-c177a7b54765.png" width="280"/>
+  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/5c7bf0d2-57a3-42f0-a29d-c177a7b54765.png" width="33%"/>
 </a>
 <a href="https://www.cupcode.com.br">
-  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/55cb2080-8059-4310-b0fa-3a6b99b7d485.png" width="280"/>
+  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/55cb2080-8059-4310-b0fa-3a6b99b7d485.png" width="33%"/>
 </a>
 
 <a href="https://soskustom.com.br">
-  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/4bfc66a6-4ef5-4a65-8c97-21aa765f3a52.png" width="280"/>
+  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/4bfc66a6-4ef5-4a65-8c97-21aa765f3a52.png" width="33%"/>
 </a>
 <a href="https://giantleap.com.br/">
-  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/f1260261-7161-450b-836c-a23f1521ce80.png" width="280"/>
+  <img src="https://vixwvpynovosqbsopadj.supabase.co/storage/v1/object/public/portfolio/projects/f1260261-7161-450b-836c-a23f1521ce80.png" width="33%"/>
 </a>
 
 </p>
