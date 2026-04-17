@@ -127,21 +127,4 @@ HTML • CSS • JavaScript • TypeScript • React • Next.js • Node.js •
 
 Stack: React • Next.js • Node.js • Express • PHP • WordPress
 
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=brunouasli-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-   align="left" 
-   height="200" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunouasli-dev&theme=tokyonight&layout=compact" 
-/>
-
-</p>
+---p
