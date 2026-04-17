@@ -126,5 +126,3 @@ HTML • CSS • JavaScript • TypeScript • React • Next.js • Node.js •
 * Criação e customização de plugins e temas WordPress
 
 Stack: React • Next.js • Node.js • Express • PHP • WordPress
-
----p
